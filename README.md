@@ -1,2 +1,0 @@
-# zomatoo.github.io
-zomatoo
